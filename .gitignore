@@ -1,1 +1,15 @@
+<<<<<<< HEAD
 .DS_Store
+=======
+# Mac
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data (optional — add if your raw files are too large for GitHub)
+# data/*.xlsx
+# data/*.xls
+>>>>>>> 688e896 (add gitignore)
